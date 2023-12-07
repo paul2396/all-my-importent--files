@@ -1,0 +1,38 @@
+
+/* Additional styles can be added here for specific elements or classes */
+/* main.css */
+
+.header,
+.footer {
+
+    color: red; /* Black text color */
+    padding: 10px;
+}
+body {
+
+
+
+  }
+   p {
+    
+    background-attachment: fixed, scroll;
+    background-repeat: no-repeat, repeat-y;
+  }
+  
+/* Additional styles can be added here for specific elements or classes */
+
+/* main.css */
+
+
+
+/* Style for ordered list (ol) items */
+ol li {
+    color:hsl(0, 100%, 50%); /* Change to a different color, e.g., #00ff00 for green */
+}
+
+/* Style for unordered list (ul) items */
+ul li {
+    color: #ff1493; /* Change to a different color, e.g., #ff1493 for pink */
+}
+
+/* Additional styles can be added here for specific elements or classes */
